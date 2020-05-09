@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 using namespace std;
 
 int main()
@@ -26,4 +26,4 @@ int main()
 		cout << pos << " isn't present in the array.\n" << endl;
 
 	return 0;
-}
+}*/

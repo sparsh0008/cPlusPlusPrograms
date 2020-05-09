@@ -21,5 +21,8 @@
     <ClCompile Include="LINEAR_S.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BINARY_S.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
