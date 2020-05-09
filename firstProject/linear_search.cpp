@@ -18,7 +18,7 @@ int main()
 	{
 		if (arr[i] == pos)    /* If required element is found */
 		{
-			cout << pos <<" is present in the array.\n"<<endl;
+			cout << pos << " is present in the array.\n" << endl;
 			break;
 		}
 	}
