@@ -16,7 +16,7 @@ int main()
 
 	for (i = 0; i < n; i++)
 	{
-		if (arr[i] == pos)    /* If required element is found */
+		if (arr[i] == pos)
 		{
 			cout << pos << " is present in the array.\n" << endl;
 			break;

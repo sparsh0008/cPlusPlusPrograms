@@ -18,5 +18,8 @@
     <ClCompile Include="firstProg.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="LINEAR_S.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
