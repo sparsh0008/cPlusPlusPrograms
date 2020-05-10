@@ -24,5 +24,8 @@
     <ClCompile Include="BINARY_S.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="INSERTION_SORT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

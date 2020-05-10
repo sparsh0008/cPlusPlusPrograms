@@ -141,6 +141,7 @@
     <ClCompile Include="firstProg.cpp" />
     <ClCompile Include="LINEAR_S.cpp" />
     <ClCompile Include="BINARY_S.cpp" />
+    <ClCompile Include="INSERTION_SORT.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

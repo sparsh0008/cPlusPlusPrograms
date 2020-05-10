@@ -1,4 +1,4 @@
-#include<iostream>
+/*#include<iostream>
 using namespace std;
 int main()
 {
@@ -39,4 +39,4 @@ int main()
 		cout << "Not found! " << key << " isn't present in the array.\n" << endl;
 
 	return 0;
-}
+}*/
