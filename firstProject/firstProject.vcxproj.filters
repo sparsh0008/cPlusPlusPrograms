@@ -27,5 +27,8 @@
     <ClCompile Include="INSERTION_SORT.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="BUBBLE_SORT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

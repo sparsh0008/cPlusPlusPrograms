@@ -1,11 +1,12 @@
-#include<iostream>
+/*#include<iostream>
 using namespace std;
 int main()
 {
+    //enter the size of an array 
 	int n, arr[100], i, p, temp, flag = 0;
 	cout << "Enter the size of an array : ";
 	cin >> n;
-
+    //Entering the array elements 
 	cout << "Enter the elements of array : " << endl;
 	for (i = 0; i < n; i++)
 		cin >> arr[i];
@@ -29,10 +30,10 @@ int main()
         if (flag)
             arr[p + 1] = temp;
     }
-
+    //printing the sorted eements 
     cout << "Sorted Array is : \n";
     for (i = 0; i < n; i++)
     {
         cout << arr[i] << "\n";
     }
-}
+}*/
